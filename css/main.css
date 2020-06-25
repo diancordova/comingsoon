@@ -332,11 +332,11 @@ input.input100 {
   height: 100%;
   top: 0;
   left: 0;
-  background: #61045f;
-  background: -webkit-linear-gradient(bottom, #aa076b, #61045f);
-  background: -o-linear-gradient(bottom, #aa076b, #61045f);
-  background: -moz-linear-gradient(bottom, #aa076b, #61045f);
-  background: linear-gradient(bottom, #aa076b, #61045f);
+  background: #721c24;
+  background: -webkit-linear-gradient(bottom, #ddd, #721c24);
+  background: -o-linear-gradient(bottom, #ddd, #721c24);
+  background: -moz-linear-gradient(bottom, #ddd, #721c24);
+  background: linear-gradient(bottom, #ddd, #721c24);
   opacity: 0.9;
 }
 
